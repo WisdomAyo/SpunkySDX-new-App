@@ -11,6 +11,7 @@ import Footer1 from './footer/Footer1'
 import Footer2 from './footer/Footer2'
 import Header1 from "./header/Header1"
 import Header2 from './header/Header2'
+import MyContext from '../path/to/MyContext' // Adjust the path as necessary
 
 export default function Layout({ headerStyle, footerStyle, breadcrumbTitle, children }) {
     const [scroll, setScroll] = useState(0)
@@ -31,8 +32,18 @@ export default function Layout({ headerStyle, footerStyle, breadcrumbTitle, chil
             }
         })
     }, [])
+
+    // Define your context value here, could be any object or value you need
+    const contextValue = {
+        scroll,
+        isMobileMenu,
+        handleMobileMenu,
+        isConnect,
+        handleConnect,
+    }
+
     return (
-        <>
+        <MyContext.Provider value={contextValue}>
             <AddClassBody />
             <DonutProgress />
             <div id="wrapper">
@@ -51,6 +62,6 @@ export default function Layout({ headerStyle, footerStyle, breadcrumbTitle, chil
 
             </div>
             <BackToTop scroll={scroll} />
-        </>
+        </MyContext.Provider>
     )
 }
