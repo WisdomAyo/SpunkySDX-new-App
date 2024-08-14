@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/page": [
+      "static/js/webpack.js",
+      "static/js/main-app.js",
+      "static/js/app/page.js"
+    ],
+    "/loading": [
+      "static/js/webpack.js",
+      "static/js/main-app.js",
+      "static/js/app/loading.js"
+    ],
+    "/layout": [
+      "static/js/webpack.js",
+      "static/js/main-app.js",
+      "static/css/app/layout.css",
+      "static/js/app/layout.js"
+    ],
+    "/faq/page": [
+      "static/js/webpack.js",
+      "static/js/main-app.js",
+      "static/js/app/faq/page.js"
+    ]
+  }
+}
