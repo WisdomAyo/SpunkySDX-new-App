@@ -1,4 +1,13 @@
 {
+  "/_not-found": "app/_not-found.js",
   "/page": "app/page.js",
-  "/faq/page": "app/faq/page.js"
+  "/forget-password/page": "app/forget-password/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/register/page": "app/register/page.js",
+  "/login/page": "app/login/page.js",
+  "/team-details/[id]/page": "app/team-details/[id]/page.js",
+  "/roadmap/page": "app/roadmap/page.js",
+  "/faq/page": "app/faq/page.js",
+  "/whitepaper/page": "app/whitepaper/page.js",
+  "/submit-project/page": "app/submit-project/page.js"
 }
