@@ -3,6 +3,7 @@
 import AOS from 'aos'
 import { useEffect, useState } from "react"
 import AddClassBody from "../elements/AddClassBody"
+import Preload from "../elements/Preloader";
 import BackToTop from '../elements/BackToTop'
 import DonutProgress from '../elements/DonutProgress'
 import PopupBid from "../elements/PopupBid"
@@ -11,7 +12,7 @@ import Footer1 from './footer/Footer1'
 import Footer2 from './footer/Footer2'
 import Header1 from "./header/Header1"
 import Header2 from './header/Header2'
-import MyContext from '../path/to/MyContext' // Adjust the path as necessary
+import MyContext from './MyContext' // Adjust the path as necessary
 
 export default function Layout({ headerStyle, footerStyle, breadcrumbTitle, children }) {
     const [scroll, setScroll] = useState(0)

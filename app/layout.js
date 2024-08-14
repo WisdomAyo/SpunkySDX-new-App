@@ -3,8 +3,6 @@ import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import 'aos/dist/aos.css';
 import "/public/style/swiper/swiper-bundle.min.css"
 import "/public/assets/font/font-awesome.css"
-// import "/public/assets/font/risebot.css"
-import "/public/assets/font/font-awesome.css"
 // import "/public/style/bootstrap/css/bootstrap.css"
 import "/public/style/dist/app.css"
 import Head from "next/head";
