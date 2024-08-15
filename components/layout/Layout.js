@@ -34,7 +34,7 @@ export default function Layout({ headerStyle, footerStyle, breadcrumbTitle, chil
         })
     }, [])
 
-    // Define your context value here, could be any object or value you need
+    
     const contextValue = {
         scroll,
         isMobileMenu,

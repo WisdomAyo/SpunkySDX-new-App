@@ -4,7 +4,7 @@ export default function Breadcrumb({ breadcrumbTitle }) {
     return (
         <>
 
-            <section className="page-title">
+            <section className="page-title1">
                 <div className="overlay" />
                 <div className="container">
                     <div className="row">

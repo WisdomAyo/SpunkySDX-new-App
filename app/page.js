@@ -18,8 +18,13 @@ export default function Home() {
 
                     <Layout headerStyle={1} footerStyle={1}>
                     <Pagetitle2/>
+                    <div className="bg_body">
+                    <div className="bg_h2">
+                        <img src="/assets/images/backgroup/bg_home2.png" alt="" />
+                    </div>
                     <Feature1 />
                     <Threestep />
+                    </div>
                     <Token1 />
                     <Technology />
                     <Cta22 />

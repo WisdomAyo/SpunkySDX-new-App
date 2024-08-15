@@ -35,11 +35,13 @@ const swiperOptions = {
     },
 }
 
-export default function Feature1() {
+export default function Feature1() {  
     return (
         <>
 
             <section className="tf-section fueture">
+            <div className="overlay">
+            </div>
                 <div className="container w_1320">
                     <div className="row">
                         <div className="col-md-12">

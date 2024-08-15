@@ -26,20 +26,20 @@ body {
   color: #798DA3;
   background: #09121D;
 }
-body.home2 .bg_body {
+body.home1 .bg_body {
   position: relative;
 }
-body.home2 .bg_body .bg_h2 {
+body.home1 .bg_body .bg_h2 {
   position: absolute;
   width: 100%;
   height: 100%;
   left: 0;
   top: 0;
 }
-body.home2 .bg_body .bg_h2 img {
+body.home1 .bg_body .bg_h2 img {
   height: 100%;
-  opacity: 0.5;
-  background: linear-gradient(180deg, #09121D 3.92%, rgba(9, 18, 29, 0) 36.79%, #09121D 83.98%);
+  opacity: 1.9;
+  background: linear-gradient(180deg, #09121d00 3.92%, rgba(9, 18, 29, 0) 36.79%, #09121d1c 83.98%);
   mix-blend-mode: luminosity;
 }
 
@@ -986,11 +986,11 @@ form button {
   border-color: #171F29;
 }
 
-.inner-page .page-title {
+.inner-page .page-title1 {
   padding: 158px 0 115px;
   position: relative;
 }
-.inner-page .page-title .overlay {
+.inner-page .page-title1 .overlay {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -1007,6 +1007,7 @@ form button {
 .home1 .main .page-title {
   position: relative;
   padding: 0;
+ 
 }
 .main .page-title.st3 .overlay {
   position: absolute;
@@ -1065,7 +1066,7 @@ form button {
 }
 .main .page-title .slider-st2 {
   position: relative;
-  padding: 362px 0 90px;
+  padding: 200px 0 90px;
 }
 .main .page-title .slider-st2 .icon {
   position: absolute;
@@ -7243,10 +7244,28 @@ form button {
 .tf-section {
   position: relative;
   padding: 0 0 100px;
+  
 }
 .tf-section.fueture {
   padding: 47px 0 100px;
+  
 }
+
+.tf-section .fueture .overlay {
+  background: linear-gradient (180deg,rgba(9,18,29,0) 10.64%,#09121d),url(/static/media/bg_features_h3.png);
+  background-position: 50%,50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  left: 0;
+  mix-blend-mode: luminosity;
+  opacity: .14;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+
 .tf-section.tf_partner {
   padding: 100px 0 100px;
 }

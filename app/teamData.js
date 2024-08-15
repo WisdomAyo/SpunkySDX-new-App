@@ -3,7 +3,7 @@ const teamData = [
     {
       id: 1,
       name: "Raul Fajardo",
-      position: "Blockchain Developer",
+      position: "Blockchain Developer", 
       image: "/assets/images/common/team_1.webp",
       linkedin: "https://www.linkedin.com/in/raul-fajardo-1b8a4b226/",
       shortBio: "Detailed biography and information about Raul Fajardo.",

@@ -1,113 +1,40 @@
 {
   "pages": {
-    "/_not-found": [
+    "/page": [
       "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
       "static/js/main-app.js",
-      "static/js/app/_not-found.js"
+      "static/js/app/page.js"
     ],
     "/layout": [
       "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
       "static/js/main-app.js",
-      "static/css/d3df112486f97f47.css",
-      "static/css/924562a5902e8ad8.css",
-      "static/css/6116bdf40ee2c9ba.css",
+      "static/css/app/layout.css",
       "static/js/app/layout.js"
     ],
     "/loading": [
       "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
       "static/js/main-app.js",
       "static/js/app/loading.js"
     ],
-    "/page": [
+    "/whitepaper/page": [
       "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
       "static/js/main-app.js",
-      "static/js/ee46dcfd.js",
-      "static/js/242.js",
-      "static/js/192.js",
-      "static/js/839.js",
-      "static/js/334.js",
-      "static/js/app/page.js"
-    ],
-    "/forget-password/page": [
-      "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
-      "static/js/main-app.js",
-      "static/js/242.js",
-      "static/js/334.js",
-      "static/js/app/forget-password/page.js"
-    ],
-    "/register/page": [
-      "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
-      "static/js/main-app.js",
-      "static/js/242.js",
-      "static/js/334.js",
-      "static/js/app/register/page.js"
-    ],
-    "/login/page": [
-      "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
-      "static/js/main-app.js",
-      "static/js/242.js",
-      "static/js/334.js",
-      "static/js/app/login/page.js"
-    ],
-    "/team-details/[id]/page": [
-      "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
-      "static/js/main-app.js",
-      "static/js/242.js",
-      "static/js/334.js",
-      "static/js/app/team-details/[id]/page.js"
+      "static/js/app/whitepaper/page.js"
     ],
     "/roadmap/page": [
       "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
       "static/js/main-app.js",
-      "static/js/242.js",
-      "static/js/334.js",
       "static/js/app/roadmap/page.js"
     ],
-    "/faq/page": [
+    "/login/page": [
       "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
       "static/js/main-app.js",
-      "static/js/242.js",
-      "static/js/192.js",
-      "static/js/334.js",
-      "static/js/app/faq/page.js"
+      "static/js/app/login/page.js"
     ],
-    "/whitepaper/page": [
+    "/register/page": [
       "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
       "static/js/main-app.js",
-      "static/js/242.js",
-      "static/js/334.js",
-      "static/js/app/whitepaper/page.js"
-    ],
-    "/submit-project/page": [
-      "static/js/webpack.js",
-      "static/js/fd9d1056.js",
-      "static/js/69.js",
-      "static/js/main-app.js",
-      "static/js/242.js",
-      "static/js/334.js",
-      "static/js/app/submit-project/page.js"
+      "static/js/app/register/page.js"
     ]
   }
 }

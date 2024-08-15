@@ -35,9 +35,9 @@ export default function Pagetitle2() {
                     <Swiper {...swiperOptions} className="swiper-wrapper">
                         <SwiperSlide>
                             <div className="slider-st2">
-                                <img className="icon icon_1" src="/assets/images/common/icon1_slider_21.png" alt="" />
+                                {/* <img className="icon icon_1" src="/assets/images/common/icon1_slider_21.png" alt="" />
                                 <img className="icon icon_2" src="/assets/images/common/icon2_slider_21.png" alt="" />
-                                <img className="icon icon_3" src="/assets/images/common/icon3_slider_21.png" alt="" />
+                                <img className="icon icon_3" src="/assets/images/common/icon3_slider_21.png" alt="" /> */}
                                 <div className="overlay">
                                     <img src="/assets/images/backgroup/bg-slider.png" alt="" />
                                 </div>

@@ -54,23 +54,15 @@ export default function Partner3() {
                         <div className="col-md-12">
                             <div className="partner-wrapper style3" data-aos="fade-up" data-aos-duration={800}>
                                 <Link href="/" className="image">
-                                    <img src="/assets/images/partner/01.png" alt="" />
+                                    <img src="/assets/images/partner/09.png" alt="" />
                                 </Link>
                                 <Link href="/" className="image ">
-                                    <img className="active" src="/assets/images/partner/02.png" alt="" />
+                                    <img className="active" src="/assets/images/partner/07.png" alt="" />
                                 </Link>
                                 <Link href="/" className="image">
-                                    <img src="/assets/images/partner/03.png" alt="" />
+                                    <img src="/assets/images/partner/08.png" alt="" />
                                 </Link>
-                                <Link href="/" className="image">
-                                    <img src="/assets/images/partner/04.png" alt="" />
-                                </Link>
-                                <Link href="/" className="image">
-                                    <img src="/assets/images/partner/05.png" alt="" />
-                                </Link>
-                                <Link href="/" className="image">
-                                    <img src="/assets/images/partner/06.png" alt="" />
-                                </Link>
+                               
                             </div>
                         </div>
                     </div>
