@@ -1,7 +1,6 @@
 {
-  "/whitepaper/page": "app/whitepaper/page.js",
-  "/roadmap/page": "app/roadmap/page.js",
+  "/privacy/page": "app/privacy/page.js",
   "/page": "app/page.js",
-  "/login/page": "app/login/page.js",
-  "/register/page": "app/register/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/faq/page": "app/faq/page.js"
 }

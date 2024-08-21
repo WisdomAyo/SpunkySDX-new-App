@@ -15,10 +15,10 @@ export default function Cta22() {
                                 <h2 className="title">
                                     become our potential partner
                                 </h2>
-                                <p className="sub">Lorem ipsum dolor sit amet consectetur</p>
+                                <p className="sub">  </p>
                                 <div className="wrap-btn">
-                                    <Link href="/login" className="tf-button style3">
-                                        Apply Project
+                                    <Link href="mailto:admin@spunkysdx.io" className="tf-button style3">
+                                        Apply
                                     </Link>
                                 </div>
                             </div>

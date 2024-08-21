@@ -1,4 +1,3 @@
-
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
 export default function Whitepaper() {
@@ -6,9 +5,9 @@ export default function Whitepaper() {
     return (
         <>
 
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="WhitePaper">
+            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="WhitePaper" className="mt56">
                 <div>
-                    <section className="tf-section details">
+                    <section className="tf-section details mt56">
                         <div className="container">
                             <div className="row">
                                 {/* <article className="article" data-aos="fade-right" data-aos-duration={1200} data-aos-delay={200}>
@@ -195,7 +194,7 @@ structure that allows token holders to vote on important issues affecting the pr
                                             </li>
                                         </ul>
                                         <div className="image mb30">
-                                            <img className="boder-20" src="/assets/images/common/details_1.jpg" alt="" />
+                                            <img className="boder-20" src="/assets/images/common/details_1.png" alt="" />
                                         </div>
                                         <div className="box">
                                             <h4 className="heading mb10">SpunkySDX has a total supply of five hundred billion </h4>
@@ -552,6 +551,16 @@ is not mintable.</p>
                                             <h6 className="sub-heading">6.4 Phase 4 (Q2 2024)</h6>
                                             <ul className="mb14">
                                                 <li>
+                                                    <span>Mining </span>
+                                                </li>
+                                                <li>
+                                                    <span>Community Building</span>
+                                                </li>
+                                               
+                                            </ul>
+                                            <h6 className="sub-heading">6.5 Phase  4(Q3 2024)</h6>
+                                            <ul className="mb14">
+                                                <li>
                                                     <span>Private Presale</span>
                                                 </li>
                                                 <li>
@@ -571,7 +580,7 @@ is not mintable.</p>
                                                     <span>Buyback and burn. </span>
                                                 </li>
                                             </ul>
-                                            <h6 className="sub-heading">6.5 Phase 5 (Q3 2024)
+                                            <h6 className="sub-heading">6.6 Phase 6 (Q4 2024)
                                             </h6>
                                             <ul className="mb14">
                                                 <li>
@@ -587,7 +596,7 @@ is not mintable.</p>
                                                     <span>Continuous Platform Development</span>
                                                 </li>
                                             </ul>
-                                            <h6 className="sub-heading">6.6 Phase 6 (Q4 2024)
+                                            <h6 className="sub-heading">6.7 Phase 7 (Q1 2025)
                                             </h6>
                                             <ul className="mb14">
                                                 <li>
@@ -712,20 +721,7 @@ individual who uses his broad skill set to provide value in multiple areas: Entr
 Management, Customer Service and QA/App Testing</p>
                                                 </div>
                                             </div>
-                                            <div className="team-box-style2">
-                                                <div className="image">
-                                                    <img src="/assets/images/common/team_6.png" alt="" />
-                                                </div>
-                                                <div className="content">
-                                                    <h6 className="name">Rhys Armstrong</h6>
-                                                    <p className="position">Developer</p>
-                                                    <p>Rhys Armstrong, a proactive and dedicated Web3 content publisher, is driven by his passion for
-digital evolution and the zeal to help others. With his primary base in England, Rhys is deeply
-committed to empower others by educating them about the exciting new world of decentralized
-applications (dApps) by creating engaging, easy-to-understand contents which provide invaluable
-insights into the workings of Web3 and dApps UI/UX.</p>
-                                                </div>
-                                            </div>
+                                            
                                             <div className="team-box-style2">
                                                 <div className="image">
                                                     <img src="/assets/images/common/team2.png" alt="" />

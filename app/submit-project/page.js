@@ -202,7 +202,7 @@ export default function SubmitProject() {
                                 <div className="col-md-6">
                                     <div className="tf-title left mt56" data-aos="fade-up" data-aos-duration={800}>
                                         <h2 className="title">
-                                            Launch on Risebot
+                                            Launch on SpunkSDX
                                         </h2>
                                         <p className="sub">Full support in project incubation</p>
                                         <div className="wrap-btn">

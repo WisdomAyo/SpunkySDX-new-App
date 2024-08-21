@@ -49,7 +49,7 @@ export default function Threestep() {
                         </div>
                         <div className="col-md-6">
                             <div className="image pt30">
-                                <img src="/assets/images/common/img_step.png" className="move5" alt="" />
+                                <img src="/assets/images/common/step_img2.png" className="move5" alt="" />
                             </div>
                         </div>
                     </div>

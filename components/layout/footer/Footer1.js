@@ -79,7 +79,9 @@ export default function Footer1() {
                     </div>
                 </div>
                 <div className="footer-bottom">
+                    
                     <div className="container">
+                    <Link href="/privacy">Privacy Policies</Link>
                         <div className="wrap-fx">
                             <div className="Copyright">
                                 Copyright © {new Date().getFullYear()}, Secured Interface LLC. All rights reserved, Designed by <Link href="">WizDev</Link>

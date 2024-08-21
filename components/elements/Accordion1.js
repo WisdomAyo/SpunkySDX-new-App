@@ -17,6 +17,7 @@ export default function Accordion1() {
                     </div>
                     <p className="toggle-content" style={{ display: `${isActive === 1 ? "block" : "none"}` }}>SpunkySDX is an AI-powered meme token engineered to track stolen assets on the EVM chain. It is built on the principles of transparency, community engagement, and real-world use cases.</p>
                 </div>
+                
                 <div className={isActive === 2 ? "flat-toggle active" : "flat-toggle"}>
                     <div className={isActive === 2 ? "h7 toggle-title active" : "h7 toggle-title"} onClick={() => handleClick(2)}>
                         <span className="icon-Icon">

@@ -230,7 +230,7 @@ export default function Feature1() {
                                     Experience an all-in-one crypto solution
                                     </p>
                                     <div className="wrap-btn justify-content-center">
-                                        <Link href="/submit-IGO-on-chain" className="tf-button style1">
+                                        <Link href="/" className="tf-button style1">
                                             Get Started
                                         </Link>
                                     </div>

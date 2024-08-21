@@ -16,25 +16,15 @@
       "static/js/main-app.js",
       "static/js/app/loading.js"
     ],
-    "/whitepaper/page": [
+    "/privacy/page": [
       "static/js/webpack.js",
       "static/js/main-app.js",
-      "static/js/app/whitepaper/page.js"
+      "static/js/app/privacy/page.js"
     ],
-    "/roadmap/page": [
+    "/faq/page": [
       "static/js/webpack.js",
       "static/js/main-app.js",
-      "static/js/app/roadmap/page.js"
-    ],
-    "/login/page": [
-      "static/js/webpack.js",
-      "static/js/main-app.js",
-      "static/js/app/login/page.js"
-    ],
-    "/register/page": [
-      "static/js/webpack.js",
-      "static/js/main-app.js",
-      "static/js/app/register/page.js"
+      "static/js/app/faq/page.js"
     ]
   }
 }

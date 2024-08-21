@@ -20,6 +20,7 @@ export default function Roadmap() {
                                 <div className="col-md-12">
                                     <div className="roadmap-wrapper-style2" data-aos="fade-up" data-aos-duration={1200}>
                                         <div className="left">
+                                            
                                             <div className="roadmap-box-style active">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
@@ -34,6 +35,8 @@ export default function Roadmap() {
                                                     </ul>
                                                 </div>
                                             </div>
+
+
                                             <div className="roadmap-box-style active">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
@@ -50,6 +53,8 @@ export default function Roadmap() {
                                                 </div>
 
                                             </div>
+
+
                                             <div className="roadmap-box-style active">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
@@ -67,6 +72,8 @@ export default function Roadmap() {
                                                 </div>
 
                                             </div>
+
+
                                             <div className="roadmap-box-style">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
@@ -84,6 +91,8 @@ export default function Roadmap() {
                                                 </div>
                                             </div>
                                         </div>
+
+
                                         <div className="right">
                                             <div className="roadmap-box-style active">
                                                 <div className="icon">
@@ -99,6 +108,8 @@ export default function Roadmap() {
                                                     </ul>
                                                 </div>
                                             </div>
+
+
                                             <div className="roadmap-box-style active">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
@@ -113,6 +124,8 @@ export default function Roadmap() {
                                                     </ul>
                                                 </div>
                                             </div>
+
+
                                             <div className="roadmap-box-style">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
@@ -128,6 +141,7 @@ export default function Roadmap() {
                                                     </ul>
                                                 </div>
                                             </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
