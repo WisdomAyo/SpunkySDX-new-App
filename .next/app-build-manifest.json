@@ -15,11 +15,6 @@
       "static/js/webpack.js",
       "static/js/main-app.js",
       "static/js/app/loading.js"
-    ],
-    "/not-found": [
-      "static/js/webpack.js",
-      "static/js/main-app.js",
-      "static/js/app/not-found.js"
     ]
   }
 }

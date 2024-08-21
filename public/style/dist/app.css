@@ -22,7 +22,7 @@ body {
   font-family: "Space Grotesk", sans-serif;
   font-size: 15px;
   line-height: 21px;
-  font-weight: 500;
+  font-weight: 500; 
   color: #798DA3;
   background: #09121D;
 }
@@ -9015,6 +9015,9 @@ img.mfp-img {
     text-align: center;
   }
 }
+
+
+
 @media only screen and (max-width: 767px) {
   .home1 .tf_CTA_2 .image_cta .move4 {
     position: relative;
@@ -9335,7 +9338,7 @@ img.mfp-img {
     padding-bottom: 70px !important;
   }
   .tf-title {
-    margin-bottom: 30px !important;
+    margin-bottom: 130px !important;
   }
   .img_technology {
     padding: 100px 0;
@@ -9539,4 +9542,4 @@ img.mfp-img {
   }
 }
 
-/*# sourceMappingURL=app.css.map */
+

@@ -21,60 +21,7 @@ export default function Token1() {
                         </div>
                         <div className="col-md-12">
                             <div className="row">
-                                <div className="counter_wrapper">
-                                    <div className="box">
-                                        <div className="image">
-                                            <img src="/assets/images/common/counter_1.png" alt="" />
-                                        </div>
-                                        <div className="content">
-                                            <p className="desc">Funded Projects</p>
-                                            <div className="box-couter counter">
-                                                <div className="number-content">
-                                                    <span className="count-number" data-to={359} data-speed={2000} data-inviewport="yes"><CounterUp count={359} time={1} /></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="box">
-                                        <div className="image">
-                                            <img src="/assets/images/common/counter_2.png" alt="" />
-                                        </div>
-                                        <div className="content">
-                                            <p className="desc">Unique Participants</p>
-                                            <div className="box-couter counter">
-                                                <div className="number-content">
-                                                    <span className="count-number" data-to={742} data-speed={2000} data-inviewport="yes"><CounterUp count={742} time={1} /></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="box">
-                                        <div className="image">
-                                            <img src="/assets/images/common/counter_3.png" alt="" />
-                                        </div>
-                                        <div className="content">
-                                            <p className="desc">Raised Capital</p>
-                                            <div className="box-couter counter">
-                                                <div className="number-content">
-                                                    <span>$</span><span className="count-number" data-to={17} data-speed={2000} data-inviewport="yes"><CounterUp count={17} time={1} /></span><span>M</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="box">
-                                        <div className="image">
-                                            <img src="/assets/images/common/counter_4.png" alt="" />
-                                        </div>
-                                        <div className="content">
-                                            <p className="desc">Initial Market Cap</p>
-                                            <div className="box-couter counter">
-                                                <div className="number-content">
-                                                    <span>$</span><span className="count-number" data-to={32} data-speed={2000} data-inviewport="yes"><CounterUp count={32} time={1} /></span><span>M</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                
                                 <div className="char_wrapper">
                                     <ul className="describe_chart">
                                     <li>
@@ -131,7 +78,7 @@ export default function Token1() {
                                     <div className="chart_inner" data-aos="fade-up" data-aos-duration={800}>
                                         <div className="content_inner">
                                             <img src="/assets//images/chart/subtract1.png" alt="" className="rounded-circle" />
-                                            <p>Token Distrubu</p>
+                                            <p>Token Distribution</p>
                                         </div>
                                         <Chart1 />
                                     </div>
