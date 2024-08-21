@@ -15,16 +15,6 @@
       "static/js/webpack.js",
       "static/js/main-app.js",
       "static/js/app/loading.js"
-    ],
-    "/privacy/page": [
-      "static/js/webpack.js",
-      "static/js/main-app.js",
-      "static/js/app/privacy/page.js"
-    ],
-    "/faq/page": [
-      "static/js/webpack.js",
-      "static/js/main-app.js",
-      "static/js/app/faq/page.js"
     ]
   }
 }
