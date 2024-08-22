@@ -1,0 +1,27 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills.js"
+  ],
+  "devFiles": [
+    "static/js/react-refresh.js"
+  ],
+  "ampDevFiles": [
+    "static/js/webpack.js",
+    "static/js/amp.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_app": [
+      "static/js/webpack.js",
+      "static/js/main.js",
+      "static/js/pages/_app.js"
+    ],
+    "/_error": [
+      "static/js/webpack.js",
+      "static/js/main.js",
+      "static/js/pages/_error.js"
+    ]
+  },
+  "ampFirstPages": []
+}
