@@ -21,7 +21,11 @@ export default function Cta21() {
                                 </p>
                                 <div className="wrap-btn">
                                     <Link href="/" className="tf-button style2">
+<<<<<<< HEAD
                                         PRESALE COMING SOON 
+=======
+                                        PRESALE COMING SOON
+>>>>>>> 4a38b1432e6e24048ceee3a226b27a5ee882bb91
                                     </Link>
                                 </div>
                             </div>
