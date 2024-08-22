@@ -234,7 +234,7 @@ export default function Faq() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-md-6">
+                                <div className="col-md-6 d-none d-md-block">
                                     <div className="image_cta" data-aos="fade-left" data-aos-duration={1200}>
                                         <img className="move4" src="/assets/images/common/img_cta.png" alt="" />
                                     </div>

@@ -15,6 +15,16 @@
       "static/js/webpack.js",
       "static/js/main-app.js",
       "static/js/app/loading.js"
+    ],
+    "/roadmap/page": [
+      "static/js/webpack.js",
+      "static/js/main-app.js",
+      "static/js/app/roadmap/page.js"
+    ],
+    "/not-found": [
+      "static/js/webpack.js",
+      "static/js/main-app.js",
+      "static/js/app/not-found.js"
     ]
   }
 }

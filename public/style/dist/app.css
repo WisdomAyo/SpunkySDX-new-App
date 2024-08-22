@@ -1491,7 +1491,7 @@ form button {
 }
 
 .content_technology {
-  margin-top: 38px;
+  /* margin-top: 38px; */
   position: relative;
   padding-right: 25%;
   padding-left: 4px;
@@ -7550,7 +7550,7 @@ form button {
   padding-bottom: 0;
 }
 .home1 .tf-section.tf_CTA {
-  padding: 196px 0 71px;
+  padding: 56px 0 71px;
 }
 .home3 .tf-section.tf_CTA .overlay {
   position: absolute;
@@ -7662,7 +7662,8 @@ form button {
 }
 
 .page-roadmap .tf-section.roadmap {
-  padding: 60px 0 138px;
+
+  /* padding: 60px 0 138px; */
 }
 
 .inner-page .tf-section.tf_CTA {
@@ -9250,7 +9251,7 @@ img.mfp-img {
     padding-bottom: 70px !important;
   }
   .tf-section.tf_CTA .overlay {
-    top: -150px;
+    top: -10px;
   }
   .image_cta {
     text-align: center;
@@ -9335,13 +9336,13 @@ img.mfp-img {
     padding: 100px 0 100px;
   }
   .tf-section {
-    padding-bottom: 70px !important;
+    /* padding-bottom: 70px !important; */
   }
   .tf-title {
-    margin-bottom: 130px !important;
+    margin-bottom: 30px !important;
   }
   .img_technology {
-    padding: 100px 0;
+    padding: 30px 0;
   }
   .img_technology .coin.coin_5 {
     right: 0;

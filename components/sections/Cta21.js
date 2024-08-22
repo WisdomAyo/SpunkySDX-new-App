@@ -20,14 +20,14 @@ export default function Cta21() {
                                    
                                 </p>
                                 <div className="wrap-btn">
-                                    <Link href="/submit-IGO-on-chain" className="tf-button style2">
-                                        INVEST NOW
+                                    <Link href="/" className="tf-button style2">
+                                        PRESALE COMING SOON 
                                     </Link>
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-12">
-                            <div className="image">
+                            <div className="image d-none d-md-block">
                                 <img className="img_main" src="/assets/images/common/img_partner.png" alt="" />
                                 {/* <img className="icon icon_1" src="/assets/images/common/icon_partner_1.png" alt="" />
                                 <img className="icon icon_2" src="/assets/images/common/icon_partner_2.png" alt="" />

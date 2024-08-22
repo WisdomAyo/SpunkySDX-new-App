@@ -58,8 +58,9 @@ export default function Accordion1() {
                     </div>
                     <p className="toggle-content" style={{ display: `${isActive === 6 ? "block" : "none"}` }}>SpunkySDX stands out by combining advanced asset tracking capabilities with a focus on real-world use cases. We aim to create a secure and transparent ecosystem for our community, bridging the gap between meme tokens and practical applications.</p>
                 </div>
+
                 <div className={isActive === 7 ? "flat-toggle active" : "flat-toggle"}>
-                    <div className={isActive === 7 ? "h7 toggle-title active" : "h7 toggle-title"} onClick={() => handleClick(6)}>
+                    <div className={isActive === 7 ? "h7 toggle-title active" : "h7 toggle-title"} onClick={() => handleClick(7)}>
                         <span className="icon-Icon">
                         </span>
                         <span>Where can I get information about SpunkySDX</span>

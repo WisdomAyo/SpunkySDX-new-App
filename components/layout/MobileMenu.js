@@ -32,12 +32,16 @@ export default function MobileMenu({ isMobileMenu }) {
                     <li className={`menu-item ${checkCurrentMenuItem("/faq")}`}>
                                 <Link href="/faq">FAQs</Link>
                             </li>
+                            <li className={`menu-item ${checkCurrentMenuItem("/whitepaper")}`}>
+                                <Link href="/whitepaper">Whitepaper</Link>
+                           </li>
+                           <li className={`menu-item ${pathname === "/roadmap" ? "current-menu-item" : ""}`}>
+                             <Link href="/roadmap">Spunkymap</Link>
+                         </li>
                             <li className={`menu-item ${checkCurrentMenuItem("/login")}`}>
                                 <Link href="/login">Login</Link>
                             </li>
-                    <li className={`menu-item ${pathname === "/roadmap" ? "current-menu-item" : ""}`}>
-                        <Link href="/roadmap">Spunkymap</Link>
-                    </li>
+                    
                    
                     
                 </ul>

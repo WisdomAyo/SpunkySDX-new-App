@@ -154,7 +154,7 @@ export default function Privacy() {
                                     </div>
                                 </div>
                                 <div className="col-md-6">
-                                    <div className="image_cta" data-aos="fade-left" data-aos-duration={1200}>
+                                    <div className="image_cta d-none d-md-block" data-aos="fade-left" data-aos-duration={1200}>
                                         <img className="move4" src="/assets/images/common/img_cta.png" alt="" />
                                     </div>
                                 </div>
