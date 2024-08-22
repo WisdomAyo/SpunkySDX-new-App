@@ -20,8 +20,8 @@ export default function Cta21() {
                                    
                                 </p>
                                 <div className="wrap-btn">
-                                    <Link href="/submit-IGO-on-chain" className="tf-button style2">
-                                        INVEST NOW
+                                    <Link href="/" className="tf-button style2">
+                                        PRESALE COMING SOON
                                     </Link>
                                 </div>
                             </div>
