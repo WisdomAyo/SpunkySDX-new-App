@@ -217,10 +217,10 @@ and crypto experts with avid determination and dedication to achieving the core 
                                             distributed to ensure the success of the project:</p>
                                             <ul>
                                                 <li>
-                                                    <span>Thirty percent (15%) for presale. </span>
+                                                    <span>Thirty percent (30%) for presale. </span>
                                                 </li>
                                                 <li>
-                                                    <span>Fifteen percent (30%) for Staking and Ecosystem development. </span>
+                                                    <span>Fifteen percent (15%) for Staking and Ecosystem development. </span>
                                                 </li>
                                                 <li>
                                                     <span>Thirty percent (30%) for Liquidity. </span>

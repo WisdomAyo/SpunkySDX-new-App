@@ -17,10 +17,9 @@ export default function Roadmap() {
                                 </h2>
                             </div> 
                         </div>
-                                <div className="col-md-12">
+                        <div className="col-md-12">
                                     <div className="roadmap-wrapper-style2" data-aos="fade-up" data-aos-duration={1200}>
                                         <div className="left">
-                                            
                                             <div className="roadmap-box-style active">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
@@ -36,6 +35,20 @@ export default function Roadmap() {
                                                 </div>
                                             </div>
 
+                                            <div className="roadmap-box-style active d-lg-none">
+                                                <div className="icon">
+                                                    <img src="/assets/images/common/down.svg" alt="" />
+                                                </div>
+                                             
+                                                <div className="content">
+                                                    <h6 className="date">Q3 2023</h6>
+                                                    <ul>
+                                                        <li>Web App Launch</li>
+                                                        <li>Task for reward program</li>
+                                                        <li>Strategic Partnership</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
 
                                             <div className="roadmap-box-style active">
                                                 <div className="icon">
@@ -52,9 +65,22 @@ export default function Roadmap() {
                                                     </ul>
                                                 </div>
 
+                                                <div className="roadmap-box-style active d-lg-none pt-4">
+                                                <div className="icon">
+                                                    <img src="/assets/images/common/down.svg" alt="" />
+                                                </div>
+                                                
+
+                                                <div className="content">
+                                                    <h6 className="date">Q2 2024</h6>
+                                                    <ul>
+                                                        <li>Mining </li>
+                                                        <li>Community Building</li>
+                                                    </ul>
+                                                </div>
                                             </div>
 
-
+                                            </div>
                                             <div className="roadmap-box-style active">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
@@ -73,6 +99,21 @@ export default function Roadmap() {
 
                                             </div>
 
+                                            <div className="roadmap-box-style d-lg-none">
+                                                <div className="icon">
+                                                    <img src="/assets/images/common/down.svg" alt="" />
+                                                </div>
+                                               
+                                                <div className="content">
+                                                    <h6 className="date">Q4 2024</h6>
+                                                    <ul>
+                                                        <li>More DEX/CEX Listing</li>
+                                                        <li>Massive Marketing Campaigne</li>
+                                                        <li>Partnership</li>
+                                                        <li>Continuos Platform Development</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
 
                                             <div className="roadmap-box-style">
                                                 <div className="icon">
@@ -91,10 +132,8 @@ export default function Roadmap() {
                                                 </div>
                                             </div>
                                         </div>
-
-
                                         <div className="right">
-                                            <div className="roadmap-box-style active">
+                                            <div className="roadmap-box-style active d-none d-md-block">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
                                                 </div>
@@ -109,8 +148,8 @@ export default function Roadmap() {
                                                 </div>
                                             </div>
 
-
-                                            <div className="roadmap-box-style active">
+                                            
+                                            <div className="roadmap-box-style active d-none d-md-block">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
                                                 </div>
@@ -124,9 +163,7 @@ export default function Roadmap() {
                                                     </ul>
                                                 </div>
                                             </div>
-
-
-                                            <div className="roadmap-box-style">
+                                            <div className="roadmap-box-style d-none d-md-block">
                                                 <div className="icon">
                                                     <img src="/assets/images/common/down.svg" alt="" />
                                                 </div>
@@ -141,7 +178,6 @@ export default function Roadmap() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            
                                         </div>
                                     </div>
                                 </div>
