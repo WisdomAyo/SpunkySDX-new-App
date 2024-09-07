@@ -233,10 +233,10 @@ and crypto experts with avid determination and dedication to achieving the core 
                                                     </span>
                                                 </li>
                                                 <li>
-                                                    <span>Four percent (5%) for Airdrop. </span>
+                                                    <span>Four percent (4%) for Airdrop. </span>
                                                 </li>
                                                 <li>
-                                                    <span>Five percent (4%) for Investors
+                                                    <span>Five percent (5%) for Investors
                                                     </span>
                                                 </li>
                                             </ul>
